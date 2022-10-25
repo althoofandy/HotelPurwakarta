@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hotel Purwakarta</string>
+    <string name="header1">Tentang Developer</string>
+    <string name="header2">Tentang Aplikasi</string>
+    <string name="nama">MUHAMMAD ALTHOOFANDY SUPRAYOGI</string>
+    <string name="tentang">Aplikasi pertamaku ini untuk melihat daftar hotel yang ada di Kota Purwakarta,yang dimana dapat mempermudah wisatawan yang hendak berkunjung ke Kota Purwakarta. Pada aplikasi ini saya menggunakan API Public yang saya koneksikan kedalam aplikasi ini, dan aplikasi ini sudah menerapkan Retrofit,MVVM dan LiveData.</string>
+</resources>
